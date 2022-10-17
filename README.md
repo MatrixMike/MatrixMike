@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatrixMike
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Kotlin and Elixir
-- 💞️ I’m looking to collaborate on Linux utilities e.g. caja
+- 🌱 I’m currently learning Kotlin and Elixir. I am also trying to keep up my skills in other languages on these repo pages 
+- 💞️ I’m looking to collaborate on Linux utilities e.g. caja, also Arduino projects infact just about anything that has reference in a repo here...
 - 📫 How to reach me ... TBA
 
 <!---
